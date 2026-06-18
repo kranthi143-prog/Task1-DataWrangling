@@ -34,4 +34,4 @@ python clean_data.py
 Python, pandas, openpyxl, Excel
 
 ## Author
-[Your Name] — Data Analytics Intern, ApexPlanet Software Pvt. Ltd.
+Nidiganti kranthi goud — Data Analytics Intern, ApexPlanet Software Pvt. Ltd.
